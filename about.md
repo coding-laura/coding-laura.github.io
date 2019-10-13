@@ -5,7 +5,7 @@ title: About
 
 ![That GNP life.](/features/round_prof2.png)
 
-Hi! I'm Laura, network engineer by trade and eclectic by birth.
+HOLA! I'm Laura - network engineer by trade and eclectic by birth.
 
 I want to use this little corner on the internet to share some of my
 interactions with tech and maybe a few life things I find inspiring.
