@@ -21,11 +21,12 @@
 
       <div class="container content">
         {{ content }}
+        {% include comments.html %}
       </div>
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-    {% include comments.html %}
+
   </body>
 </html>
