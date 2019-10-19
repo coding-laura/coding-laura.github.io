@@ -37,4 +37,9 @@
     gtag('config', 'UA-24932151-1');
   </script>
 
+  <!-- Tags -->
+  {% if site.tags != "" %}
+    {% include collecttags.html %}
+  {% endif %}
+
 </head>
