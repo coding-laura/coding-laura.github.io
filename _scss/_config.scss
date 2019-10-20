@@ -1,6 +1,7 @@
-/* Colors 
+/* Colors
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
+$grey:     #6A9FB5;
 $red:      #ac4142;
 $orange:   #d28445;
 $yellow:   #f4bf75;
@@ -15,7 +16,7 @@ $white:      #fff;
 $lightgrey:  #eee;
 $black:      #000;
 
-$theme-color: $blue;
+$theme-color: $grey;
 $theme-color-dark: darken($theme-color, 10%);
 
 $post-date-color: #9a9a9a;
@@ -28,5 +29,5 @@ $overlay-sidebar: false;
 
 /* Font stack */
 $font-serif: "PT Serif", Georgia, "Times New Roman", serif;
-$font-sans: "PT Sans", Helvetica, Arial, sans-serif;
+$font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-font-awesome: FontAwesome;
