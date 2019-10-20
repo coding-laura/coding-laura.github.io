@@ -3,8 +3,9 @@
 @import 'config';
 @import 'base/lanyon';
 @import 'base/poole';
-@import 'base/layout';
 @import 'base/global';
 @import 'base/syntax';
+
+@import 'bourbon/css3/selection';
 
 @import 'component/tag';

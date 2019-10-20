@@ -4,7 +4,7 @@
   padding: 0 .5rem;
   margin-right: .5rem;
   border-radius: 4px;
-  color: $theme-color;
+  color: $blue;
   font-family: $font-sans;
   font-size: 90%;
   &:before {
@@ -14,7 +14,7 @@
   }
   &:hover {
     text-decoration: none;
-    background: $theme-color;
+    background: $blue;
     color: $white;
   }
   @include transition(all .1s ease-in-out);
