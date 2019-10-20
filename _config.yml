@@ -10,6 +10,10 @@ title:            laura.
 tagline:          'network tagline'
 description:      'tinkering, labbing, sharing'
 url:              https://blog.alonsolabs.com
+baseurl: ""
+sass:
+  style: compressed
+  sass_dir: _scss
 
 author:
   name:           'Laura Alonso'
