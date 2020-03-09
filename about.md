@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![That GNP life.](/features/round_prof2.png)
+![That GNP life.](/images/aboutme.png)
 
 HOLA! I'm Laura - network engineer by trade and eclectic by birth.
 
