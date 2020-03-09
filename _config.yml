@@ -6,8 +6,8 @@ pygments:         false
 permalink:        pretty
 
 # Setup
-title:            laura.
-tagline:          'ready router one'
+title:            ready router one
+tagline:          ''
 description:      'tinkering, labbing, sharing'
 url:              https://blog.alonsolabs.com
 baseurl: ""
