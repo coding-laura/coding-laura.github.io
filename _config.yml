@@ -6,9 +6,9 @@ pygments:         false
 permalink:        pretty
 
 # Setup
-title:            ready router one
+title:            Ready Router One
 tagline:          ''
-description:      'tinkering, labbing, sharing'
+description:      'here are my network notes and cool life bits'
 url:              https://blog.alonsolabs.com
 baseurl: ""
 sass:
