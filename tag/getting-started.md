@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: "Tag: getting-started"
-tag: test
+tag: getting-started
 ---

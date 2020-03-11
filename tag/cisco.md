@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: "Tag: cisco"
-tag: test
+tag: cisco
 ---
