@@ -7,7 +7,7 @@ tags: cisco dcaci getting-started blueprint
 ---
 
 ![Cisco Certs](/post-images/cisco-certs.png)
-# R1#  ![cursor -fullwidth](/post-images/cursor-gif.gif)
+# R1#  ![cursor](/post-images/cursor-gif.gif)
 Here's the deal, Cisco released their new Certs and I want to get the DCACI Specialization cert.  The thing is, I haven't been able to get started because [insert excuses here] .. I've been lazy. 
 
 So I've gone ahead and populated the Exam Blueprint on a [Google Drive document](https://docs.google.com/spreadsheets/d/1MzZJd29mLs6bqZKl-sLRQhsa-ykYdKSBcBFBQ9C8B-0/edit?usp=sharing) and decided to put some content into the $15/year domain I purchased for this blog with the end of making myself accountable. 
