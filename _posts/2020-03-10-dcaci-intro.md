@@ -5,9 +5,6 @@ description:
 comments: True
 tags: cisco dcaci getting-started blueprint
 ---
-
-![Cisco Certs](/post-images/cisco-certs.png)
-
 # R1# 
 
 Here's the deal, Cisco released their new Certs and I want to get the DCACI Specialization cert.  The thing is, I haven't been able to get started because [insert excuses here] .. I've been lazy. 
@@ -18,3 +15,7 @@ In the spirit of community and knowledge sharing I will publish what I've learne
 
 *PS.* Anyone can copy the Blueprint spreadsheet and make it their own -- I actually got this [idea](https://overlaid.net/2014/12/29/the-path-to-ccie-data-center/) from [@overlaid](https://twitter.com/overlaid) a few years back and have used it for all my studies.
 
+
+![Cisco Certs](/post-images/cisco-certs.png)
+
+{% include twitter_plug.html %}
