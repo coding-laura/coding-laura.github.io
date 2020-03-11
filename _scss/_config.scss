@@ -31,3 +31,10 @@ $overlay-sidebar: false;
 $font-serif: "PT Serif", Georgia, "Times New Roman", serif;
 $font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-font-awesome: FontAwesome;
+
+
+/* Image */
+img[alt$="-fullwidth"]{
+    width:  50px;
+    display: block;
+  }
