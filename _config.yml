@@ -14,7 +14,7 @@ baseurl: ""
 sass:
   style: compressed
   sass_dir: _scss
-image:            /favicon.png
+title_image:      favicon.png
 
 author:
   name:           'Laura Alonso'
