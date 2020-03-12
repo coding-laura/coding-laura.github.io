@@ -9,7 +9,7 @@ permalink:        pretty
 title:            READY ROUTER ONE
 tagline:          'up/connected'
 description:      'My little internet corner for network notes and life bits.'
-url:              http://blog.readyrouterone.com
+url:              https://blog.readyrouterone.com
 baseurl: ""
 sass:
   style: compressed
