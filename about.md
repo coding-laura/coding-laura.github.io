@@ -13,4 +13,4 @@ constantly growing network knowledge and maybe a few life things I find inspirin
 
 If you like my blog, feel free to give me a follow on twitter [@prettymeetswrld](https://twitter.com/prettymeetswrld).
 
-You can also reach out via Discord, @Pretty on [theLANTamers](https://discordapp.com/channels/328935741994565643/328935741994565643) or [Cisco Study Group](https://discordapp.com/channels/328935741994565643/328935741994565643).
+You can also reach out via Discord, @pretty#2050 on [theLANTamers](https://discordapp.com/channels/328935741994565643/328935741994565643) or [Cisco Study Group](https://discordapp.com/channels/328935741994565643/328935741994565643).
