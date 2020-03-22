@@ -234,11 +234,15 @@ blockquote p:last-child {
   }
 }
 
-img {
+img + em {
   display: block;
   max-width: 100%;
   margin: 0 0 1rem;
   border-radius: 5px;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
 }
 
 /* Tables */
