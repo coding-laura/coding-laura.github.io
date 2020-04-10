@@ -1,4 +1,4 @@
-<div class="thumbnail-img">
+<div class="col sm-col-4">
     {% if post.image %}
     <img src="{{ post.image }}">
     {% else %}
@@ -6,7 +6,7 @@
     {% endif %}
   </div>
 
-  <div class = sm-col-8 >
+  <div class = "col sm-col-8" >
     {{ post.content | truncate: 165, '...'}}
     <a href="{{ post.url }}" class="h6">
         Continue Reading &raquo;
