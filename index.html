@@ -18,7 +18,9 @@ title: Blog
     {{ post.image }}
 
     {{ post.content | truncate: 165, '...'}}
-    <h6><a href="{{ post.url }}">Continue Reading &raquo;</a></h6>
+    <a href="{{ post.url }}" class="h6">
+        Continue Reading &raquo;
+    </a>
 
   </div>
   {% endfor %}
