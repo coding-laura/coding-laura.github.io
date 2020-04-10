@@ -18,4 +18,3 @@ In the spirit of community and knowledge sharing I will publish what I've learne
 
 ![Cisco Certs](/post-images/cisco-certs.png)
 
-{% include twitter_plug.html %}
