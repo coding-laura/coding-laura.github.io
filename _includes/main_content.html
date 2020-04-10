@@ -1,0 +1,14 @@
+<div class="thumbnail-img">
+    {% if post.image %}
+    <img src="{{ post.image }}">
+    {% else %}
+      <div class="border border-light-gray h1 py4 px4 center">Aa</div>
+    {% endif %}
+  </div>
+
+  <div class = sm-col-8 >
+    {{ post.content | truncate: 165, '...'}}
+    <a href="{{ post.url }}" class="h6">
+        Continue Reading &raquo;
+    </a>
+ </div>
