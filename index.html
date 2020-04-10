@@ -14,7 +14,12 @@ title: Blog
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
+    {% if post.image %}
+    {{ post.image }}
+    
     {{ post.content | truncate: 165, '...'}}
+    <div><a href="{{ include.post.url }}" class="h6">Continue Reading &raquo;</a></div>
+
   </div>
   {% endfor %}
 </div>
