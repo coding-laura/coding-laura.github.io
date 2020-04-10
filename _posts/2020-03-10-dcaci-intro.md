@@ -5,7 +5,6 @@ description:
 comments: True
 tags: cisco dcaci getting-started blueprint
 ---
-# R1# 
 
 Here's the deal, Cisco released their new Certs and I want to get the DCACI Specialization cert.  The thing is, I haven't been able to get started because [insert excuses here] .. I've been lazy. 
 
