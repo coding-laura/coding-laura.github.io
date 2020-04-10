@@ -14,9 +14,6 @@ title: Blog
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {% if post.image %}
-    {{ post.image }}
-
     {{ post.content | truncate: 165, '...'}}
     <a href="{{ post.url }}" class="h6">
         Continue Reading &raquo;
