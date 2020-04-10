@@ -46,3 +46,20 @@
 .r1 {
     font-size: 2rem;
   }
+
+.mxn2 { margin-left: -1rem; margin-right: -1rem; }
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table
+}
+.clearfix:after { clear: both }
+
+.mt4 { margin-top: 4rem }
+
+.mb2 { margin-bottom: 1rem }
+
+.pb3  { padding-bottom: $increment * 4; }
+
+.pt1  { padding-top: $increment; }
