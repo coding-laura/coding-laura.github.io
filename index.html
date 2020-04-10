@@ -15,7 +15,7 @@ title: Blog
     <span class="post-date">{{ post.date | strip_html | date_to_string }}</span>
     
     {% if post.image %}
-    <img src="{{ post.image }}">
+    <img src="{{ post.image }}" style="width:150px">
     {% endif %}
 
     {{ post.content | truncate: 165, '...'}}
