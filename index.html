@@ -14,7 +14,20 @@ title: Blog
 
     <span class="post-date">{{ post.date | strip_html | date_to_string }}</span>
     
-    {% include main_content.html %}
+    <div class="col sm-col-4 px2 mb2">
+      {% if post.image %}
+      <img src="{{ post.image }}">
+      {% else %}
+        <div class="border border-light-gray h1 py4 px4 center">Aa</div>
+      {% endif %}
+    </div>
+  
+    <div class = "col sm-col-8 px2" >
+      {{ post.content | truncate: 165, '...'}}
+      <a href="{{ post.url }}" class="h6">
+          Continue Reading &raquo;
+      </a>
+   </div>
 
   </div>
   {% endfor %}
