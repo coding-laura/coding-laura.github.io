@@ -2,6 +2,7 @@
 _gh_pages
 _site
 .ruby-version
+goodreads-api.txt
 
 # Numerous always-ignore extensions
 *.diff
