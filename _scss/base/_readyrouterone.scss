@@ -59,3 +59,28 @@
 .clearfix:after { clear: both }
 
 .mb0 { margin-bottom: 0 }
+
+img {
+    display: block;
+    max-width: 100%;
+    height:auto;
+    margin: 0 0 1rem;
+  }
+  
+  img + em {
+    display: block;
+    max-width: 100%;
+    height:auto;
+    margin: 0 0 1rem;
+    border-radius: 5px;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+  }
+  
+  .center-image
+  {
+      margin: 0 auto;
+      display: block;
+  }
