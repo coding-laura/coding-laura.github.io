@@ -4,7 +4,7 @@ title: The doggo and I went on an Adventure
 description: Gilly and I ventured out west on a multi-day trip with a couple of friends. This is how we managed.
 image: /post-images/20200712/doggo-and-i.jpg
 comments: True
-tags: life dog Gil backpacking camping
+tags: lifestyle dog Gil backpacking camping
 ---
 
 I have a new roommate and his name is Gilberto (*HEEL-berto*). He's changed my life.
