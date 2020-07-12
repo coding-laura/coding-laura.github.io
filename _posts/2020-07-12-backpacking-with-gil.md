@@ -2,7 +2,7 @@
 layout: post
 title: The doggo and I went on an Adventure
 description: Gilly and I ventured out west on a multi-day trip with a couple of friends. This is how we managed.
-image: /post-images/doggo-and-i.jpg
+image: /post-images/20200712/doggo-and-i.jpg
 comments: True
 tags: life dog Gil backpacking camping
 ---
