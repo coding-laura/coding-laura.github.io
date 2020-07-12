@@ -62,9 +62,9 @@ A backpacking towel is also useful as a blanket to lay down or cover up at night
 
 ##### Sleep System:
 
-This one ties into the warmth section because good sleep is king. I got Gilbert a sleeping pad to help with any rocks or twigs under the tent as well as to provide a layer of insulation from the cold ground. We use my sleeping bag as blanket to cover both of us. I currently have a mummy style sleeping pad that opens up wide enough to cover both of us but if he moves to the lower part of the tent then covering becomes a little difficult due to the design of the bag. A quilt may be a better solution. 
+This one ties into the warmth section because good sleep is king. I got Gilbert a sleeping pad to help with any rocks or twigs under the tent as well as to provide a layer of insulation from the cold ground. We use my sleeping bag as blanket to cover both of us. I currently have a mummy style sleeping pad that opens up wide enough for us both but if he moves to the lower part of the tent then covering becomes a little difficult due to the design of the bag. A quilt may be a better solution. 
 
-Overall Gil sleeps better when under the sleeping bag, if I pull it from him he starts getting up and turning around, once under it he goes back to resting very well. He's a hot furnace so even though the sleeping bag is not sealed, his heat keeps us both very comfortable.
+Overall Gil sleeps better when under the sleeping bag, if I pull it from over him he starts getting up and turning around, once under it he goes back to resting very well. He's a hot furnace so even though the sleeping bag is not sealed with the zipper, his heat keeps us both very comfortable.
 
 ##### Food:
 
