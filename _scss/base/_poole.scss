@@ -253,6 +253,12 @@ img + em {
   text-indent: 0;
 }
 
+.center-image
+{
+  margin: 0 auto;
+  display: block;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
