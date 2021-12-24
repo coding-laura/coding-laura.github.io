@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-pygments:         false
+highlighter:         false
 
 # Permalinks
 permalink:        pretty
@@ -27,3 +27,5 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/coding-laura
+
+plugins: [jekyll-paginate]
