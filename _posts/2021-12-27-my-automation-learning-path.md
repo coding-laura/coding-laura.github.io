@@ -11,7 +11,7 @@ Like many of my fellow network engineers, automation was top of the list of topi
 
 ![net-automation-books](/post-images/net-automation-books.jpg)
 
-So I started using GitHub. Every configuration change I was designing, planning, and implementing would go into .md or .txt files (and .ios if you are familiar with the Cisco IOS extension on VS Code) and tracked by git. I was fortunate that GH Enterprise was available for me to consume at work. I knew this tool to be the most popular Version Control tool, and I knew engineers across the industry were using it to share code and integrating them into configuration pipelines. And I needed to learn how to use it even if the content of my repositories wasn't real code. This practice made me very comfortable with git push/pull, commits, and branches. 
+So I started using GitHub. Every configuration change I was designing, planning, and implementing would go into .md or .txt files (and .ios if you are familiar with the Cisco IOS extension on VS Code) and tracked by git. I was fortunate that GH Enterprise was available for me to consume at work. I knew this tool to be the most popular Version Control tool, and I knew engineers across the industry were using it to share code and integrating them into configuration pipelines. I needed to learn how to use it even if the content of my repositories wasn't real code. This practice made me very comfortable with git push/pull, commits, and branches. 
 
 Then, I found a book that provided me with the blueprint I so much needed to get started with code, John Capobianco's [Automate Your Network](https://smile.amazon.com/Automate-Your-Network-Introducing-Enterprise-ebook/dp/B07PKDNL78).
 
