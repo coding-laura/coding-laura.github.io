@@ -7,6 +7,7 @@ comments: True
 tags: automation learning
 ---
 
+![net-automation-books](/post-images/net-automation-books.jpg)
 
 Like many of my fellow network engineers, automation was top of the list of topics to learn for this year. A goal that I had continued to put off in previous years. But for me, this time was going to be different because I realized that I needed to put into practice what I was learning, otherwise it was going to get lost. My problem all along was that I didn't know where to start. I'd participated in a handful of DevNet labs at CiscoLive and other local events that would mostly target greenfield deployments. I'd read documentation on different product APIs. I'd watch YouTube videos and read networktocode blogs. And yet, I wasn't any closer to solving any of the problems at work that could benefit from an automated approach.
 
@@ -94,4 +95,4 @@ Other resources I used this summer to build my automation knowledge:
 
 If you're a woman, John's announced he's giving his book away until the end of 2022 for free, just email him. See his [Tweet](https://twitter.com/John_Capobianco/status/1473782314526195718) for the announcement. Recently he mentioned already given out 1000+ copies of his book in just the first weekend.
 
-![net-automation-books](/post-images/net-automation-books.jpg)
+
