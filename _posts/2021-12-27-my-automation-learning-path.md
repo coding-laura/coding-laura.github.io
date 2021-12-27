@@ -26,7 +26,7 @@ I didn't stop to test the code, I didn't install any libraries, I just read. I k
 ## The Book
 The book showcases Ansible and how to use it to manage and operate Cisco IOS and NXOS devices.
 
-I learned the folder structure I needed for my code. I learned that there were certain "modules" included on Ansible by default, such as what I needed, NXOS. I learned the file structure for an inventory file - which lists the target devices you want to apply config changes to. I learned how to group single device configs vs. group device configs. I learned how to format a playbook! what are tasks! 
+I learned the folder structure I needed for my code. I learned that there were certain "modules" included on Ansible by default, such as what I needed, NXOS. I learned the file structure for an inventory file - which lists the target devices you want to apply config changes to. I learned how to group single device configs vs. group device configs. I learned how to format a playbook! what tasks are! 
 
 This book had a solution to the problem I had, how to get started!
 
