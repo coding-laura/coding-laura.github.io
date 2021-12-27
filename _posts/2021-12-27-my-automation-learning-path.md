@@ -55,7 +55,7 @@ The practice of meeting periodically and offering this hands-on experience has b
 
 ## Starting small and growing up
 
-Although I admire the Cisco DevNet program, I often find their resources for DC infra to be too basic, targetting simple greenfield deployments. Take ACI as an example, API interactions for Fabric components are almost non-existent (feel free to share it on the comment section below if you have a good resource) and it's probably one of the components I intereact with the most as I grow the network.
+Although I admire the Cisco DevNet program, I often find their resources for DC infra to be too basic, targetting simple greenfield deployments. Take ACI as an example, API interactions for Fabric components are almost non-existent (if you feel differently, share the resource on the comment section) and it's probably one of the components I intereact with the most as I grow the network.
 
 So my first ACI project was to build an Interface Profile followed by how to add the it to a Switch Profile. I started with a simple small config change, create an interface profile - no configs, no interfaces, no policy. Then I built those functionalities in. But starting with the simplest config was essential to gaining momentum and building the rest. It provided me with the opportunity to get to understand how the Ansible modules were written and how they interacted with the ACI controllers.
 
