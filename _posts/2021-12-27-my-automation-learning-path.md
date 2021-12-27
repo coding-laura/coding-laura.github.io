@@ -63,11 +63,11 @@ And now if a customer needs to deploy a new server to the data center, our engin
 
 Since this effort started, we've automated new Switch deployments, new network builds, new infra adds to exisiting networks, backups, etc.
 
-We are able to build automated plays for known customers. If a Storage engineer is deploying the same XIO hardware every 6 months, we know what the requirements are and we can deploy the connectivity profile in a matter a seconds.
+We are able to build automated plays for known customers. If a Storage engineer were to deploy the same XIO hardware every 6 months, we'd know what the requirements are and could deploy the connectivity profile in a matter a seconds.
 
 ## What's next
 
-The dream is a fully automated pipeline, the CI/CD dream pipe if you will. If that same Storage Eng has the hardware in place they can submit a request that triggers the new config to be generated, tests against some lab infra, and pushes to non-prod and prod without the intervention of a Network Engineer.
+The dream is a fully automated pipeline, the CI/CD dream pipe if you will. If that same Storage Eng has hardware in place they can submit a request that triggers the new config to be generated, tests against some lab infra, and pushes to non-prod and prod without the intervention of a Network Engineer.
 
 So we gotta develop good guidelines for customers, test cases to try candidate configs against, and have reliable lab infrastructure to try the changes on first.
 
