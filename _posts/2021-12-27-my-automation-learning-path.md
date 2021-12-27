@@ -7,11 +7,11 @@ comments: True
 tags: automation learning
 ---
 
-![net-automation-books](/post-images/net-automation-books.jpg)
-
 Like many of my fellow network engineers, automation was top of the list of topics to learn for this year. A goal that I had continued to put off in previous years. But for me, this time was going to be different because I realized that I needed to put into practice what I was learning, otherwise it was going to get lost. My problem all along was that I didn't know where to start. I'd participated in a handful of DevNet labs at CiscoLive and other local events that would mostly target greenfield deployments. I'd read documentation on different product APIs. I'd watch YouTube videos and read networktocode blogs. And yet, I wasn't any closer to solving any of the problems at work that could benefit from an automated approach.
 
-So I started using GitHub. Every configuration change I was designing, planning, and implementing would go into .md or .txt files (and .ios if you are familiar with the Cisco IOS extension on VS Code). I knew git is the most popular Version Control tool, and I knew engineers across the industry were using it to share code and integrating them into configuration pipelines. And I needed to learn how to use it even if the content of my repositories wasn't real code. This practice made me very comfortable with git push/pull, commits, and branches.
+![net-automation-books](/post-images/net-automation-books.jpg)
+
+So I started using GitHub. Every configuration change I was designing, planning, and implementing would go into .md or .txt files (and .ios if you are familiar with the Cisco IOS extension on VS Code) and tracked by git. I was fortunate that GH Enterprise was available for me to consume at work. I knew this tool to be the most popular Version Control tool, and I knew engineers across the industry were using it to share code and integrating them into configuration pipelines. And I needed to learn how to use it even if the content of my repositories wasn't real code. This practice made me very comfortable with git push/pull, commits, and branches. 
 
 Then, I found a book that provided me with the blueprint I so much needed to get started with code, John Capobianco's [Automate Your Network](https://smile.amazon.com/Automate-Your-Network-Introducing-Enterprise-ebook/dp/B07PKDNL78).
 
