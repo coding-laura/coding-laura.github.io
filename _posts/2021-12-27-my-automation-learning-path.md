@@ -78,7 +78,7 @@ The goal is to have repeatable tasks fully automated so we can focus on design a
 
 ## Conclusion
 
-I understand that not every enterprise offers their employees with the tools and the strategic freedom to get up and running with network automation. I'm very lucky in that regard. My advice if that is not the case is to get the buy from your manager, emphasize the cost benefit of automation in hours saved, the potential to reduce errors, increase network uptime, and enable your customers to have working solutions faster. Perhaps request a small set of resources to demonstrate a Proof of Concept.
+I understand that not every enterprise offers their employees with the tools and the strategic freedom to get up and running with network automation. I'm very lucky in that regard. My advice if that is the case is to get the buy from your manager, emphasize the cost benefit of automation in hours saved, the potential to reduce errors, increase network uptime, and enable your customers to have working solutions faster. Perhaps request a small set of resources to demonstrate a Proof of Concept.
 
 Personally, I'm very happy with the growth I've made this year in the network automation space. I didn't know how to get started, then found a useful resource, identified a small project, shared my progress, built it up, and got others to join in on the fun.
 
