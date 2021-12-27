@@ -29,3 +29,6 @@ github:
   repo:           https://github.com/coding-laura
 
 plugins: [jekyll-paginate]
+
+feed:
+  path: feed.xml
