@@ -46,7 +46,7 @@ This was a good game, I was once again playing a higher rated opponent (1600+). 
 `my pieces: white`
 `result: loss`
 
-This round was against my friend Scott who I've played blitz and rapid games online with mixed results but this was the first time playing over the board. I once again started my opening with `1. e4` and he followed with `1. .. e5`, in such position I've been trying the Italian in liu on the Ruy Lopez - not that either has given me an edge. We ended up with the Four Knight Defense to which I responded poorly but was able to equalize right before I got into a position where I had to trade Queens and pretty much took away any chance to an advantage. He made a blunder later on the game which I didn't seize to my advantage, so that revelation during my analysis of the game was a bummer.
+This round was against my friend Scott who I've played blitz and rapid games online with mixed results but this was the first time playing over the board. I once again started my opening with `1. e4` and he followed with `1. .. e5`, in such position I've been trying the Italian in liu of the Ruy Lopez - not that either has given me an edge. We ended up with the Four Knight Defense to which I responded poorly but was able to equalize right before I got into a position where I had to trade Queens and pretty much took away any chance to an advantage. He made a blunder later on the game which I didn't seize to my advantage, so that revelation during my analysis of the game was a bummer.
 
 1. Once again, didn't castle until later in the game, CASTLE! - move 20 ... again.
 2. Study a better response to `3. .. Nf6` and avoid the Four Knight variation right away, `4. d3` seems better than `4. Nc3` which is what I played.
