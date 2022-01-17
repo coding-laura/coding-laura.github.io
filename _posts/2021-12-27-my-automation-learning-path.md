@@ -56,13 +56,13 @@ The practice of meeting periodically and offering this hands-on experience has b
 
 ## Starting small and growing up
 
-Although I admire the Cisco DevNet program, I often find their resources for DC infra to be too basic, targetting simple greenfield deployments. Take ACI as an example, API interactions for Fabric components are almost non-existent (if you feel differently, share the resource on the comment section) and it's probably one of the components I intereact with the most as I grow the network.
+Although I admire the Cisco DevNet program, I often find their resources for DC infra to be too basic, targeting simple greenfield deployments. Take ACI as an example, API interactions for Fabric components are almost non-existent (if you feel differently, share the resource on the comment section) and it's probably one of the components I interact with the most as I grow the network.
 
 So my first ACI project was to build an Interface Profile followed by how to add the it to a Switch Profile. I started with a simple small config change, create an interface profile - no configs, no interfaces, no policy. Then I built those functionalities in. But starting with the simplest config was essential to gaining momentum and building the rest. It provided me with the opportunity to get to understand how the Ansible modules were written and how they interacted with the ACI controllers.
 
 And now if a customer needs to deploy a new server to the data center, our engineers can run a playbook that configures the fabric with the new physical requirements. 4 interfaces, 10G, in a port-channel for switches 1 and 2? We got chu.
 
-Since this effort started, we've automated new Switch deployments, new network builds, new infra adds to exisiting networks, backups, etc.
+Since this effort started, we've automated new Switch deployments, new network builds, new infra adds to existing networks, backups, etc.
 
 We are able to build automated plays for known customers. If a Storage engineer were to deploy the same XIO hardware every 6 months, we'd know what the requirements are and could deploy the connectivity profile in a matter a seconds.
 
