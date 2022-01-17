@@ -23,7 +23,9 @@ Exp. Rating: 1196
 `my pieces: white`
 `result: win`
 
-The first game was very interesting because I was playing a higher rated opponent (1500+). Opponent replied to my `1. e5` opening with `1. .. c6`, the Sicilian Defense, which is considered a very good opening for black. Lately, I've been trying to improve my response to this opening by playing `2. a3`, `2. Nf3`, or `2. c3` - I went with the latter which is the Alapin Variation. Early in the game my opponent made an inaccuracy that prevented him from fully developing his pieces and gave me a great advantage when attacking his King.
+The first game was very interesting because I was playing a higher rated opponent (1500+). Opponent replied to my `1. e5` opening with `1. .. c6`, the Sicilian Defense, which is considered a very good opening for black. Lately, I've been trying to improve my response to this opening by playing `2. a3`, `2. Nf3`, or `2. c3` - I went with the latter which is the Alapin Variation. 
+
+Early in the game my opponent made an inaccuracy that prevented him from fully developing his pieces and gave me a great advantage when attacking his King.
 
 1. Playing a higher rated opponent is not intimidating, they can also play inaccurately. 
 2. King protection: I need to improve how fast I'm castling - didn't castle until move 21.
@@ -67,7 +69,9 @@ Oh, this one was the first game on day 2 and let me tell you, I knew early on th
 `my pieces: black`
 `result: win`
 
-Tough game. I was playing a lower rated opponent (only one the entire tourney) and she really gave me a run for my money - this game took 47 moves to end. Before the pairings had been announced I expected to play white for my final round because well, I'd been alternating all tournament, and it's usually how it goes. Thus during my break I had been studying the Italian and Sicilian openings. But SURPRISE! I got black again and so my time spent studying seemed wasted. She opened with `1. e4` which made me breathe a sigh of relief, I was going to be able to play a "normal" Caro-Kann, `1. .. c6`. It turned into the Advanced Variation which I'm familiar with but I was inaccurate on a move I've made 100 times, which gave my opponent a slim advantage but what was more alarming to me is that it left me with a closed center and less space on my side which made me a bit uncomfortable and took a lot of work to pull apart. 
+Tough game. I was playing a lower rated opponent (only one the entire tourney) and she really gave me a run for my money - this game took 47 moves to end. Before the pairings had been announced I expected to play white for my final round because well, I'd been alternating all tournament, and it's usually how it goes. Thus during my break I had been studying the Italian and Sicilian openings. But SURPRISE! I got black again and so my time spent studying seemed wasted. 
+
+My opponent opened with `1. e4` which made me breathe a sigh of relief, I was going to be able to play a "normal" Caro-Kann, `1. .. c6`. It turned into the Advanced Variation which I'm familiar with but I was inaccurate on a move I've made 100 times, which gave my opponent a slim advantage but what was more alarming to me is that it left me with a closed center and less space on my side which made me a bit uncomfortable and took a lot of work to pull apart. 
 
 1. Once again, didn't castle until move 18. 
 2. Don't overthink an opponent's move, stick to your opening principles.
