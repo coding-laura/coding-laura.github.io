@@ -120,7 +120,7 @@ Python is full of modules, either built-in with your copy of Python (e.g. [re](h
 
 ## Projects
 
-Lastly, build something. Come up with a small idea to script out. Maybe save a device's config on a text file and parse it while looking for a specific pattern. Improve on it by using SSH and getting the data directly from a device.
+Lastly, build something. I might come up with a small idea to script out. Maybe save a device's config on a text file and parse it while looking for a specific pattern. Improve on it by using SSH and getting the data directly from a device.
 
 There is this concept of `pseudo-code` which basically means: write out in plain speech what you want the actual code to do. This helps to write the code later on.
 
@@ -133,7 +133,7 @@ If not found print a message saying NTP is missing from the config
 Done
 ```
 
-You will find that working on a project will inspire you to think about the problem and the solution. Google is my friend for projects like this. 
+I find that working on a project will inspire me to think about the problem and the solution. Google is my friend for projects like this. 
 
 ## Resources
 
