@@ -1,6 +1,6 @@
 ---
 layout: post
-title: So you know how to `hello-world.py`
+title: So you know how to hello-world.py
 description: What comes after you learn how to print some output to the console.
 image: /post-images/code_screen.png
 comments: True
