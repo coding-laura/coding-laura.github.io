@@ -13,5 +13,5 @@ constantly growing technical knowledge and maybe a few life things I find inspir
 *And yup, the title is a play on words for Ready Player One. Great adventure book if you're looking for a recommendation.*
 
 
-If you like my blog, feel free to give me a shout on twitter [@prettymeetswrld](https://twitter.com/prettymeetswrld).
+If you like my blog, feel free to give me a shout on twitter [@prettymeetswrld](https://twitter.com/prettymeetswrld). Or connect with me on [LinkedIn](https://www.linkedin.com/in/alonso2010/) 
 
