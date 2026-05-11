@@ -28,7 +28,18 @@ version:          1.0.0
 github:
   repo:           https://github.com/coding-laura
 
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-gfm-admonitions
+
+exclude:
+  - .ruby-version
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - node_modules/
+  - .sass-cache/
+  - .jekyll-cache/
 
 feed:
   path: feed.xml
