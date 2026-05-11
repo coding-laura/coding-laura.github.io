@@ -8,7 +8,7 @@ tags: routing router forwarding
 ---
 
 
-**What is a router?** a question that sounds trivial until you're in an interview and realize the answer has layers. Let's unpack it properly.
+**What is a router?** a question that sounds trivial until you're in an interview and realize the answer has layers (😏). Let's unpack it properly.
 
 When a packet hits a router, two separate processes decide its fate: figuring out the best path, and actually moving the packet. In networking terms, these are the **Control Plane** (thinking) and the **Data Plane** (doing).
 
@@ -22,3 +22,4 @@ Routing is the process of determining the best path to a destination. This is co
 
 Forwarding is the process of taking an incoming packet and sending it out the correct interface based on its destination. This is data plane work. It uses a forwarding table.
 
+So, **what is a router?** A router is a device that runs two parallel operations: a **control plane** that builds and maintains a view of the network, and a **data plane** that forwards packets at line rate based on what the control plane computed. One thinks, one does; and keeping them separate is what makes both possible.
