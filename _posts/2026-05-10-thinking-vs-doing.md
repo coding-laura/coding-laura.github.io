@@ -2,13 +2,13 @@
 layout: post
 title: Thinking vs. Doing
 description: What does a router do?
-image: /post-images/code_screen.png
+image: /post-images/arista_switch.png
 comments: True
 tags: routing router forwarding
 ---
 
 
-**What is a router?** a question that sounds trivial until you're in an interview and realize the answer has layers 😏. Let's unpack it properly.
+**What is a router?** a question that sounds trivial until you're in an interview and realize the answer has ... layers. Let's unpack it properly.
 
 When a packet hits a router, two separate processes decide its fate: figuring out the best path, and actually moving the packet. In networking terms, these are the **Control Plane** (thinking) and the **Data Plane** (doing).
 
