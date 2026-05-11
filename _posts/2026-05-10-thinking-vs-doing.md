@@ -8,9 +8,9 @@ tags: routing router forwarding
 ---
 
 
-Sometime ago I got the interview question: *what is a router?*. So lets dig in and explain the concepts behind this technology.
+**What is a router?** a question that sounds trivial until you're in an interview and realize the answer has layers. Let's unpack it properly.
 
-When a packet reaches a router something decides where it goes next. That something is actually two separate processes, figuring out the best path (thinking), and actually moving the packet (doing). In networking terms these are called Control Plane and Data Plane.
+When a packet hits a router, two separate processes decide its fate: figuring out the best path, and actually moving the packet. In networking terms, these are the **Control Plane** (thinking) and the **Data Plane** (doing).
 
 If you are wondering why not just one process that does both, it's because of optimization. A router will forward millions of packets per second, running best path and forwarding the packet for every single packet is computationally expensive. Think of OSPF, running graphs, Djsktra's algorith, cost comparison, etc. So if that work were to happen once and the result isntalled into a lookup table, then the data plane can react in milliseconds.
 
