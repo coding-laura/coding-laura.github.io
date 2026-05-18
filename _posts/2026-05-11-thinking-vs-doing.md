@@ -4,7 +4,7 @@ title: Thinking vs. Doing
 description: What does a router do?
 image: /post-images/arista_switch.png
 comments: True
-tags: routing router forwarding
+tags: routing router forwarding interview
 ---
 
 
